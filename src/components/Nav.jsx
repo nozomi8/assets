@@ -1,6 +1,6 @@
 export default function Nav() {
   return (
-    <Nav>
+    <nav>
       <ul>
         <li><span>Home</span></li>
         <li><a href="#">Get started</a></li>
@@ -8,6 +8,6 @@ export default function Nav() {
         <li><a href="#">Gear</a></li>
         <li><a href="#">Forum</a></li>
       </ul>
-    </Nav>
+    </nav>
   );
 }

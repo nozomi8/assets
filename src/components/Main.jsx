@@ -3,13 +3,11 @@ import Imagesidebar from "./Imagesidebar"
 
 export default function Main() {
   return (
-    <Main>
-      <div>
-        <Welcomtext />
-      </div> 
-      <div>
+    <main>
+      <Welcomtext /> 
+      <aside>
         <Imagesidebar />
-      </div>
-    </Main>
+      </aside>
+    </main>
   );
 }

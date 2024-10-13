@@ -1,6 +1,6 @@
 export default function Imagesidebar() {
   return (
-    <div> 
+    <div>
       <h2>Favourite photos</h2>
       <a href="public/images/favorite-1.jpg">
         <img 
@@ -25,8 +25,7 @@ export default function Imagesidebar() {
           src="public/images/favorite-4_th.jpg"
           alt="Large bird, mostly white plumage with black plumage on back and rear, long straight white beak, links to larger version of the image"
         />
-      </a>     
-    </div>
-
+      </a> 
+    </div>     
   );
 }
